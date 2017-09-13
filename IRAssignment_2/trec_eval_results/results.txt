@@ -1,0 +1,11 @@
+Stemmed
+
+okapi 0.1801
+bm25  0.1886
+jelinek 0.2231
+proximity 0.1730
+
+Unstemmed
+okapi 0.1760
+bm25 0.1720
+jelinek 0.1810
